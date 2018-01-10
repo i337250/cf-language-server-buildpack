@@ -2,7 +2,7 @@
 
 # Configuration for the JAVA LSP server component
 ---
-version: 0.0.+
+version: +
 repository_root: "https://lsp-component-java-001.cfapps.eu10.hana.ondemand.com/"
 env:
     workdir: language_server_bin_exec_jdt/
